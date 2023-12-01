@@ -1,0 +1,7 @@
+[package]
+name = "crane-build-error-example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+spin-world = { git = "https://github.com/fermyon/spin", rev = "2db520448743114f3ba250aec09a22bf4c52f6b2" }
